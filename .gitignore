@@ -1,0 +1,6 @@
+#       LTspice files
+
+*.fft
+*.txt
+*.net
+*.raw
