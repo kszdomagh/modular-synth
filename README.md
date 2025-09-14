@@ -1,1 +1,1 @@
-# quad-VCO
+# modular synth
