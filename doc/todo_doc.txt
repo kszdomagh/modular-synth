@@ -1,0 +1,1 @@
+general documenatation about the system itself with schematics, list of modules and explenations.

@@ -5,3 +5,8 @@
 *.net
 *.raw
 *.log
+
+
+
+
+!todo*.txt
